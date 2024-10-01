@@ -1,0 +1,9 @@
+# Projeto: Herança e Polimorfismo em Java
+Este repositório contém exemplos práticos de Herança e Polimorfismo em Java, dois dos pilares fundamentais da Programação Orientada a Objetos (POO). O objetivo é demonstrar como esses conceitos podem ser utilizados para promover a reutilização de código e facilitar a criação de sistemas mais flexíveis e extensíveis.
+
+# O que é Herança?
+Herança é um dos conceitos mais importantes da POO. Ela permite que uma classe herde os atributos e métodos de outra classe, promovendo a reutilização de código e a organização hierárquica de objetos.
+
+No Java, a classe que herda é chamada de classe filha ou subclasse, e a classe que é herdada é chamada de classe pai ou superclasse.
+
+Espero que gostem, pois estou dando cada passo de vez. 
